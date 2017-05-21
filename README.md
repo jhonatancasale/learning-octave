@@ -90,7 +90,7 @@ _fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
 ???
 
 ### Cursos
-???
+  - [Machine Learning](https://www.coursera.org/learn/machine-learning/)
 
 ### Tutorials
 ???
